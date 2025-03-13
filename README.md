@@ -1,2 +1,2 @@
 # PDF-Calendar
-A calendar a friend wanted have for printing
+A friend wanted a Calendar like this
